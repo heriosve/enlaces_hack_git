@@ -10,4 +10,3 @@ Enlaces a los repositorios del HACK:
 8.	H-8: https://github.com/heriosve/git_h_8.git
 
 Hector Rios
-Equipo 7
